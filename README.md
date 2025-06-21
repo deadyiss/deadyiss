@@ -30,11 +30,11 @@
 
 ### :woman_technologist: About Me :
 I am currently a student of Muhammad Arsyad Al Banjari Islamic University of Kalimantan with a Major in Informatics Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I'm currently studying to become a Web Developer and Software Engineer. I also know a little bit about DevOps Engineer.
+- :telescope: I'm currently studying to become a DevOps Engineer.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I usually do my hobby which is playing guitar.
+- :zap: In my free time, I usually do my hobby which is playing guitar and reading a book.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dhea-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhea-arimbi-almalita/)
 
